@@ -1,4 +1,4 @@
-# How to Create an Audio Manager in Unreal Engine
+# 2D Audio Listener for Music and UI in Unreal Engine and Wwise
 ### Game Audio Blog - Above Noise Studios
 English: [https://abovenoisestudios.com/blogeng/wwiseue5listener2dmusicuieng](https://abovenoisestudios.com/blogeng/wwiseue5listener2dmusicuieng)\
 Spanish: [https://abovenoisestudios.com/blogespanol/wwiseue5listener2dmusicuiesp](https://abovenoisestudios.com/blogespanol/wwiseue5listener2dmusicuiesp)\
