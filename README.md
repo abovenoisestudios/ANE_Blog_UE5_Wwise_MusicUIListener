@@ -18,6 +18,9 @@ This project shows how to register a 2D (Non-Spatial Audio) listener and a Wwise
 
 **How to Use?:**\
 To download this project, click on the **Code** button and **Download Zip**.
+**The Wwise - Unreal plugin integration is too big for this repository file size limit.**\
+Please integrate the Wwise plugin using the Audiokinetic Launcher. Make sure you select the included Wwise Project.\
+Please refer to the official documentation: [Integrating Wwise Into Unreal](https://www.audiokinetic.com/en/library/wwise_launcher/?source=InstallGuide&id=integrating_wwise_into_an_unreal_project)
 
 To rebuild and compile the project, ensure you have [Visual Studio](https://visualstudio.microsoft.com/) for Windows or [Xcode](https://download.developer.apple.com/Developer_Tools/Xcode_13.4.1/Xcode_13.4.1.xip) for Mac.
 Right-click on **MyUEProject.uproject** and choose **"Generate Visual Studio Project Files"** on Windows or **Services > "Generate Xcode project"** on Mac.
@@ -46,7 +49,10 @@ Usa una maqueta en primera persona creada con el Epic Games Launcher.
 Este proyecto muestra cómo registrar un listener 2D (Audio No Spacializado) y un Objecto Wwise para reproducir música y sonidos UI que no requieren de posicionamiento 3D en el mundo del juego.
 
 **Cómo Usar?:**\
-Para descargar este proyecto, da click en el botón **Code** y luego en **Download Zip**.
+Para descargar este proyecto, da click en el botón **Code** y luego en **Download Zip**.\
+**El plugin de integración Wwise - Unreal es muy grande para los límites de tamaño de este repositorio.**\
+Integra el plugin Wwise usando el Audiokinetic Launcher. Asegúrate de seleccionar el proyecto Wwise incluido en este repositorio.\
+Aquí la documentación oficial: [Integrating Wwise Into Unreal](https://www.audiokinetic.com/en/library/wwise_launcher/?source=InstallGuide&id=integrating_wwise_into_an_unreal_project)
 
 Para construir y compilar el proyecto, asegúrate de tener [Visual Studio](https://visualstudio.microsoft.com/) para Windows o [Xcode](https://download.developer.apple.com/Developer_Tools/Xcode_13.4.1/Xcode_13.4.1.xip).
 Haz click derecho en **MyUEProject.uproject** y selecciona **"Generate Visual Studio Project Files"** en Windows o **Services > "Generate Xcode project"** en Mac.
