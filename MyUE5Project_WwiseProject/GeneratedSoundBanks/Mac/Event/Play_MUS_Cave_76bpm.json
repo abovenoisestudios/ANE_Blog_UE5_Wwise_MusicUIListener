@@ -1,0 +1,86 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "290234970",
+    "Type": "Event",
+    "GUID": "{6CADE801-A5F6-41E1-9B62-4F2BBCEC7E25}",
+    "Language": "SFX",
+    "Hash": "{8715AB78-9C1B-C47B-2653-2A117463A537}",
+    "ObjectPath": "Play_MUS_Cave_76bpm",
+    "ShortName": "Play_MUS_Cave_76bpm",
+    "Path": "Event/Play_MUS_Cave_76bpm.bnk",
+    "Media": [
+     {
+      "Id": "736281",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cave_Layer1_76bpm4-4_8M.wav",
+      "Path": "Media/736281.wem",
+      "CachePath": "SFX/Cave_Layer1_76bpm4-4_8M_FBC78EF0.wem"
+     },
+     {
+      "Id": "820585484",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cave_Layer2_76bpm4-4_8M.wav",
+      "Path": "Media/820585484.wem",
+      "CachePath": "SFX/Cave_Layer2_76bpm4-4_8M_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "290234970",
+      "Name": "Play_MUS_Cave_76bpm",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MUS_Cave_76bpm",
+      "GUID": "{6CADE801-A5F6-41E1-9B62-4F2BBCEC7E25}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "736281"
+       },
+       {
+        "Id": "820585484"
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "2327601844",
+      "Name": "MUS_Layer",
+      "ObjectPath": "\\States\\Default Work Unit\\MUS_Layer",
+      "GUID": "{D87E7E51-93A3-4220-8BBC-1022DEBA6F6B}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MUS_Layer\\None",
+        "GUID": "{3F4A7B13-8249-4D0C-BB9B-94F81ED8EDB8}"
+       },
+       {
+        "Id": "3298531297",
+        "Name": "Layer1",
+        "ObjectPath": "\\States\\Default Work Unit\\MUS_Layer\\Layer1",
+        "GUID": "{C11CDBA8-1819-4118-ADC7-595539CB159E}"
+       },
+       {
+        "Id": "3298531298",
+        "Name": "Layer2",
+        "ObjectPath": "\\States\\Default Work Unit\\MUS_Layer\\Layer2",
+        "GUID": "{75A84B84-6AB6-4787-8787-664E4689071C}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C1BCF54D-E37F-2F83-3537-90A34D05A54A}"
+ }
+}

@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	290234970	Play_MUS_Cave_76bpm			\Default Work Unit\Play_MUS_Cave_76bpm	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2327601844	MUS_Layer			\Default Work Unit\MUS_Layer	
+
+State	ID	Name	State Group			Notes
+	748895195	None	MUS_Layer			
+	3298531297	Layer1	MUS_Layer			
+	3298531298	Layer2	MUS_Layer			
+

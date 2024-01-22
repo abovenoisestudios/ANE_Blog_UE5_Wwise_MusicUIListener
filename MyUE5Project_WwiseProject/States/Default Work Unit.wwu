@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0558EE44-35A1-4417-8E3B-65A4104BC3B2}" SchemaVersion="119">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{0558EE44-35A1-4417-8E3B-65A4104BC3B2}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="MUS_Layer" ID="{D87E7E51-93A3-4220-8BBC-1022DEBA6F6B}">
+					<ChildrenList>
+						<State Name="None" ID="{3F4A7B13-8249-4D0C-BB9B-94F81ED8EDB8}"/>
+						<State Name="Layer1" ID="{C11CDBA8-1819-4118-ADC7-595539CB159E}"/>
+						<State Name="Layer2" ID="{75A84B84-6AB6-4787-8787-664E4689071C}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

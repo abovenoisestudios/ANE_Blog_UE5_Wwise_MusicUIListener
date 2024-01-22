@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{54D0BE50-EAF5-432D-B0F7-461CF8FA3278}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{54D0BE50-EAF5-432D-B0F7-461CF8FA3278}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_MUS_Cave_76bpm" ID="{6CADE801-A5F6-41E1-9B62-4F2BBCEC7E25}">
+					<ChildrenList>
+						<Action Name="" ID="{E87D5034-9E13-4049-B614-CBA568A69DC8}" ShortID="242361552">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MUS_Cave_76bpm" ID="{D08E430C-0FAD-450F-B117-478A3D6AB533}" WorkUnitID="{974830EE-9A82-487C-A47D-A6D28CFD4EDA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
