@@ -17,7 +17,7 @@ It uses a third-person template created with the Epic Games Launcher.
 This project shows how to register a 2D (Non-Spatial Audio) listener and a Wwise Object to post Music and UI sounds that don’t require 3D positioning in the Game World.
 
 **How to Use?:**\
-To download this project, click on the **Code** button and **Download Zip**.
+To download this project, click on the **Code** button and **Download Zip**.\
 **The Wwise - Unreal plugin integration is too big for this repository file size limit.**\
 Please integrate the Wwise plugin using the Audiokinetic Launcher. Make sure you select the included Wwise Project.\
 Please refer to the official documentation: [Integrating Wwise Into Unreal](https://www.audiokinetic.com/en/library/wwise_launcher/?source=InstallGuide&id=integrating_wwise_into_an_unreal_project)
